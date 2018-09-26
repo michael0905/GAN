@@ -1,2 +1,3 @@
-# Generate MNIST image with a Keras implementation of GAN
+# GAN
+A Keras implementation of GAN to generate MNIST images.
 
